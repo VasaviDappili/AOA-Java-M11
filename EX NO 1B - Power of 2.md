@@ -26,10 +26,10 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 ## Program:
 ```
-/*
+
 Program to implement Reverse a String
-Developed by: P Keerthana
-Register Number: 212223240069
+Developed by: Dappili Vasavi
+Register Number: 212223040030
 import java.util.Scanner;
 
 public class Solution {
@@ -53,7 +53,7 @@ public class Solution {
     }
 }
 
-*/
+
 ```
 
 ## Output:
