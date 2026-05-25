@@ -41,7 +41,7 @@ public class CountPairsWithDifference {
                 }
             }
         }
-        //Type your code here
+       
         return count;
     }
     public static void main(String[] args) {
